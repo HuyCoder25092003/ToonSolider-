@@ -1,0 +1,6 @@
+id	name	prefab	damage	hp	attack_rate
+1	male	E_001	2	10	5
+2	female	E_002	2	10	4
+3	police	E_003	3	15	3
+4	guard	E_004	4	20	2
+5	boss	E_005	5	30	10
